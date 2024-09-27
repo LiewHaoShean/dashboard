@@ -1,0 +1,41 @@
+.revenue-projection {
+  display: flex;
+  flex-direction: column;
+}
+
+.revenue_title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.revenue_details {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  width: 40%;
+}
+
+.sales h4 {
+  color: rgb(202, 202, 202);
+  margin: 0;
+}
+
+.profit-margin h4 {
+  color: rgb(202, 202, 202);
+  margin: 0;
+}
+
+.sales p {
+  font-size: 2rem;
+  margin: 0;
+  font-weight: 600;
+}
+
+.profit-margin p {
+  font-size: 2rem;
+  margin: 0;
+  font-weight: 600;
+}

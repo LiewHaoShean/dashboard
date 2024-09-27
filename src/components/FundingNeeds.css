@@ -1,0 +1,21 @@
+.funding-needs {
+  padding-left: 10px;
+}
+
+.funding_heading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.funding_details {
+  display: flex;
+  padding-left: 10px;
+  justify-content: flex-start;
+}
+
+.funding_details p {
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 0;
+}
